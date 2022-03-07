@@ -1,6 +1,5 @@
-# cachipun_la_maquina
-Desafío - Cachipún contra la máquina
-Desafío - Cachipún contra la máquina
+# Desafío - Cachipún contra la máquina
+
 ● Para realizar este desafío debes haber estudiado previamente todo el material
 disponible correspondiente a la unidad.
 ● Una vez terminado el desafío, comprime la carpeta que contiene el desarrollo de los
